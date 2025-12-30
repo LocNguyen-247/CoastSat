@@ -12,6 +12,7 @@ CoastSat is an open-source software toolkit written in Python that enables users
 
 ![Alt text](https://github.com/kvos/CoastSat/blob/master/doc/example.gif)
 
+**[Tiếng Việt / Vietnamese Documentation](README_vi.md)** - Đọc hướng dẫn bằng tiếng Việt
 
 :star: **If you like the repo put a star on it!** :star:
 
