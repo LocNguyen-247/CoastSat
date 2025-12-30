@@ -461,7 +461,7 @@ Muốn đóng góp?
 
 - **Ước lượng độ dốc bãi biển**: Vos et al. (2020). Geophysical Research Letters. https://doi.org/10.1029/2020GL088365
 
-- **Nghiên cứu Thái Bình Dương**: Vos et al. (2023). Nature Geosciences. https://doi.org/10.1038/s41561-022-01117-8
+- **Nghiên cứu Thái Bình Dương**: Vos et al. (2023). Nature Geoscience. https://doi.org/10.1038/s41561-022-01117-8
 
 - **Môi trường triều cường**: Castelle et al. (2021). Geomorphology. https://doi.org/10.1016/j.geomorph.2021.107707
 
