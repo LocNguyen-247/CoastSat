@@ -12,6 +12,8 @@ CoastSat là một bộ công cụ phần mềm mã nguồn mở được viết
 
 ![Alt text](https://github.com/kvos/CoastSat/blob/master/doc/example.gif)
 
+**🚀 [Hướng dẫn nhanh 5 phút](HUONG_DAN_NHANH.md)** | **📖 [English Documentation](README.md)**
+
 ## Mô tả Thư viện
 
 ### Tổng quan

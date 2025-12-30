@@ -1,5 +1,7 @@
 # Hướng Dẫn Nhanh CoastSat
 
+**📖 [Tài liệu đầy đủ](README_vi.md)** | **🌐 [English](README.md)**
+
 ## Bắt đầu trong 5 phút
 
 ### Bước 1: Cài đặt nhanh
